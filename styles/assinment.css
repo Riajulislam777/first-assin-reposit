@@ -1,0 +1,91 @@
+
+
+/* header */
+.header{
+    background-image: url('../assets/Hero-bg.png');
+    
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+/* banner styles */
+
+.banner-title{
+font-weight: bold;
+font-size: 48;
+}
+
+/* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.banner-content{
+    max-width: 580px;}
+
+.banner-profile-pic{
+    width: 240.28;
+    height: 240;
+}
+
+/* shared style */
+.secondary-bg{
+    
+
+}
+.btn-primary{
+    background-color: black;
+    font-weight: bold;
+      color: white;
+      font-size: 20px;
+      padding: 21px 24px;
+      border-radius: 8px;
+
+}
+.section-title{
+    font-size: 32px;
+    font-weight: bold;
+    color: rgba(13, 19, 33, 1);
+}
+.section-description {
+    font-size: 16px;
+    color: rgba(13, 19, 33, 1);
+
+}
+/* Development styles */
+
+.bannerprofile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.Development{
+    border-radius: 10;
+    padding: 80px 87px;
+    text-align: center;
+    margin-top: 81px;
+}
+
+.boder{
+    height: 240px;
+   width: 850px;
+    
+}
+.bannerrp-title2{
+    font-size: 24;
+    font-family: 390;
+}
+
+
+
+
+
+   
+
+
